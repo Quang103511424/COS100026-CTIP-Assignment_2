@@ -48,7 +48,7 @@ The marks are allocated 50% for team task and 50% for individual task in this as
 * The web application (team task)
   Platform    | Status
   ------------|-------
-  [**GitHub Pages**]()| NOT AVAILABLE/NOT UPLOADED
+  [**GitHub Pages**](#)| NOT AVAILABLE/NOT UPLOADED
   **Mercury Server** | NOT AVAILABLE/NOT UPLOADDED
 *  The short video (team task)  
   _TBA_
