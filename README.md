@@ -9,6 +9,7 @@ Student ID | Last Name | Given Name         | Email                        | Mem
 103511424	 | Vu	   | Minh Quang	    | 103511424@student.swin.edu.au| 3	         | A4, B<sup>*</sup>
 
 \* probably
+
 -----
 # 📣 ANNOUNCEMENTS
 - ALL members are required to attend Week 12 Workshop for finalising.   
