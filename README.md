@@ -14,7 +14,7 @@ Student ID | Last Name | Given Name         | Email                        | Mem
 # 📣 ANNOUNCEMENTS
 - ALL members are required to attend Week 12 Workshop for finalising.   
   _**DM Jason/Leader if not available in advance.**_
-- Website is currently 🔴**OFFLINE**. Go back later
+- Website is not available due to GitHub Pages only supports static sites.
 - Project Due by: `Week 13, Monday 30 May 2022 10:00 PM`  
 - Further info: [https://swinburne.instructure.com/courses/40745/assignments/446046](https://swinburne.instructure.com/courses/40745/assignments/446046)
 -----
